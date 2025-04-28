@@ -1,0 +1,30 @@
+.header {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  padding: 24px 64px; /* Space/300 = 24px, Space/800 = 64px */
+  box-sizing: border-box;
+}
+
+.header button {
+  width: 92px;
+  height: 40px;
+  border: 1px solid #B3B3B3;
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+}
+
+.quotes button {
+  width: 175px;
+  height: 40px;
+  border: 1px solid #B3B3B3;
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+}
+
+.user-title {
+  font-family: 'Inter';
+  font-weight: 300;
+  size: 30px;
+}

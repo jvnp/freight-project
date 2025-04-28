@@ -1,0 +1,8 @@
+node_modules/
+.turbo
+.vercel
+target/
+dist/
+data/
+/out/
+.env
