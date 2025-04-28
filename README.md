@@ -17,3 +17,5 @@ Freight Data Project with preset Schema
     ```sh
     npm run dev
     ```
+## NOTE 
+This project is simple implementation of mapping concept. Not to use for production use cases.
